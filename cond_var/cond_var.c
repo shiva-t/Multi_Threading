@@ -1,5 +1,5 @@
 /*
-  Author        : Shiva Tripathi <shivat.offical@gmail.com>
+  Author        : Shiva Tripathi
   Description   : Sample code for using condition variables with mutex
                   Critical Section is queue, producer performs enqueue
                   consumer performs dequeue, so mutex is needed with signalling mechanism
