@@ -1,0 +1,7 @@
+Sample code for using condition variables with mutex
+Critical Section is queue - implementation in <queue.h,queue.c>
+
+producer performs enqueue
+consumer performs dequeue, so mutex is needed with signalling mechanism
+consumer performs read only when producer thread sends signal
+
