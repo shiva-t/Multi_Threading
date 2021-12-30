@@ -1,0 +1,7 @@
+Sample code to acheive mutual exclusion 
+using mutex - posix threads
+Critical Section is an array, producer swaps 2 array elements
+consumer just reads and sums them
+
+To compile:
+  $ sh compile.sh
