@@ -1,0 +1,4 @@
+Sample code for using semaphores
+Critical Section is array
+Total 5 threads are present trying to access C.S. periodically and
+    only 2 can access the CS at a time, acheived using semaphores
